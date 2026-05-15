@@ -62,7 +62,7 @@ ____
 
 # Dashboard Preview
 
-![Security Dashboard](Security Dashboard.png)
+![Security Dashboard](security_dashboard.png)
 
 ____
 
